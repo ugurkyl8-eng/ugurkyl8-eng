@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey there, I'm Uğurcan! 👋
 
-<!--
-**ugurkyl8-eng/ugurkyl8-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | GitHub Education Member
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 Currently learning software development
+- 💻 Exploring GitHub and open source
+- 🚀 Trying to learn something new every day
+- 🇹🇷 Based in Turkey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+
+
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+
+## GitHub Stats
+
+
+![Uğurcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ugurkyl8-eng&show_icons=true&theme=radical)
