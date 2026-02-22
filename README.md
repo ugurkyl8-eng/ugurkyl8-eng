@@ -23,4 +23,5 @@
 ## GitHub Stats
 
 
-![Uğurcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ugurkyl8-eng&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ugurkyl8-eng&color=blueviolet&style=flat-square&label=Profile+Views)
