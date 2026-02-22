@@ -23,4 +23,4 @@
 ## GitHub Stats
 
 
-![Uğurcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ugurkyl8-eng&show_icons=true&theme=radical)
+![Uğurcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ugurkyl8-eng&show_icons=true&theme=tokyonight&hide_border=true)
